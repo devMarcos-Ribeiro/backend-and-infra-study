@@ -1,0 +1,15 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "window".(¡´Ùö
+K
+java:S6212
+"/Declare this local variable with "var" instead.(Úƒ¼v8õ¸ æº/
+L
+java:S6212"/Declare this local variable with "var" instead.(¸«ç8ú¸ æº/
+L
+java:S6212"/Declare this local variable with "var" instead.(¡´Ùö8û¸ æº/
+Q
+java:S6212"/Declare this local variable with "var" instead.(¸ìşÿÿÿÿ8ü¸ æº/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’âóøúÿÿÿÿ8±Ìæº/
+H
+java:S1481"+Remove this unused "window" local variable.(¡´Ùö8°Ç™æº/
